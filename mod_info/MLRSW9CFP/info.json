@@ -1,0 +1,41 @@
+{
+    "attachments": [],
+    "resource_id": 26914,
+    "current_version_id": 47882,
+    "download_count": 0,
+    "resource_version_id": 51838,
+    "version_string": "1.7",
+    "last_update": 1688628081,
+    "rating_avg": 4.97674,
+    "rating_count": 0,
+    "rating_sum": 0,
+    "resource_category_id": 7,
+    "resource_date": 1686051047,
+    "review_count": 43,
+    "tag_line": "The (as far as I know) first public drafting mod for BeamNG.Drive!",
+    "update_count": 6,
+    "path": "MLRSW9CFP\/47882\/",
+    "filename": "LuuksDraftingMod.zip",
+    "title": "Luuks Drafting Mod",
+    "user_id": 53119,
+    "username": "lucky4luuk",
+    "tagid": "MLRSW9CFP",
+    "message": "[CENTER][B][IMG]https:\/\/cdn.discordapp.com\/attachments\/1104452581675237396\/1115343479917264926\/luuks_drafting_mod_logo_paint.png[\/IMG]  [\/B][\/CENTER]\n[B]\nLadies and gentlemen! It is time for drafting![\/B]\nWelcome to the first publicly available drafting mod for BeamNG.Drive!\nHave you ever wanted to try slipstreaming the driver ahead of you, and been severely disappointed? Have you ever wanted to go oval racing, but it's boring without drafting? Fear not, the drafting mod is here to save the day!\n\n[CENTER][IMG]https:\/\/cdn.discordapp.com\/attachments\/1104452581675237396\/1115340933257502750\/drafting.gif[\/IMG][IMG]https:\/\/cdn.discordapp.com\/attachments\/1104452581675237396\/1116022194129096704\/flyby_wind.gif[\/IMG][\/CENTER]\n\n[B][U]Mod features:[\/U][\/B]\n- [B]Singleplayer[\/B] AND [B]multiplayer[\/B] compatibility;\n- Semi-realistic drafting based on frontal area, velocity, angle, etc;\n- Works with all vanilla, modded and automation cars;\n- WIP side-drafting;\n\n[B][U]Want to support me?[\/U][\/B]\nI've set up a Ko-Fi if you want to support me in my modding journey!\n[URL]https:\/\/ko-fi.com\/lucky4luuk[\/URL]\nI also have a Discord server!\n[URL]https:\/\/discord.gg\/mVcQAR4CFH[\/URL]\n\n[B][U]Try my other mods too! This mod goes perfectly together with:[\/U][\/B]\n- [URL]https:\/\/www.beamng.com\/resources\/luuks-tyre-thermals-and-wear-mod.26947\/[\/URL]\n- [URL]https:\/\/www.beamng.com\/resources\/luuks-radar-mod.28768\/[\/URL]\n\n[U]Changelog:[\/U]\nv1.6: Enables support for AI cars drafting in singleplayer. Has no impact on multiplayer, so it doesn't affect performance at all :)\nv1.5: Fixes larger grid drafting not working. Fingers crossed this is the last big bug left :)\nv1.4: Multicar drafting majorly improved and added a \"hidden\" strength multiplier.\nv1.3: Fly-by wind effect and reasonably improved draft angle calculation.\nv1.2: Fixed multicar drafting and some MP-only bugs. Improved performance slightly.\nv1.1: Tweaked draft angle and strength at speed.\nv1.0: Initial version of the mod, not posted here.\n\n[CENTER][I]If you use this mod in any videos, I'd love to get credit! Also, feel free to reach out to me, I'd love to see the videos my mod features in <3\nAlso, feel free to message me on Discord, my name is [B]@.luuk[\/B] (note the dot!)[\/I][\/CENTER]",
+    "category_title": "",
+    "prefix_title": "",
+    "via": "packed by repo on Tue, 16 Jan 2024 03:04:19 GMT",
+    "hashes": [
+        [
+            "scripts\/LuuksDraftingMod\/modScript.lua",
+            "152b41afee5d276c"
+        ],
+        [
+            "lua\/vehicle\/extensions\/auto\/LuuksDraftingMod.lua",
+            "e9c531b3bb3a11fa"
+        ],
+        [
+            "lua\/ge\/extensions\/LuuksDraftingMod.lua",
+            "2799f911fc66e4fc"
+        ]
+    ]
+}
